@@ -125,7 +125,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"Downloads\/walls_x.png",
+         "image":"walls_x.png",
          "imageheight":32,
          "imagewidth":480,
          "margin":0,
@@ -274,7 +274,7 @@
         {
          "columns":16,
          "firstgid":16,
-         "image":"Downloads\/tilesets_fsm_rm2k3_para_vx_ace__set_escritorio_by_milkian_darwtlj.png",
+         "image":"tilesets_fsm_rm2k3_para_vx_ace__set_escritorio_by_milkian_darwtlj.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -567,7 +567,7 @@
         {
          "columns":16,
          "firstgid":272,
-         "image":"Downloads\/tilesets_fsm_rm2k3_para_vx_ace__set_hospital_by_milkian_darwnhe.png",
+         "image":"tilesets_fsm_rm2k3_para_vx_ace__set_hospital_by_milkian_darwnhe.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -580,7 +580,7 @@
         {
          "columns":16,
          "firstgid":528,
-         "image":"Downloads\/police_station_by_nicnubill_d9892fb.png",
+         "image":"police_station_by_nicnubill_d9892fb.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -774,7 +774,7 @@
         {
          "columns":12,
          "firstgid":784,
-         "image":"Downloads\/mv_bathroom_addon_by_schwarzenacht_dapf6hr.png",
+         "image":"mv_bathroom_addon_by_schwarzenacht_dapf6hr.png",
          "imageheight":480,
          "imagewidth":384,
          "margin":0,
@@ -787,7 +787,7 @@
         {
          "columns":16,
          "firstgid":964,
-         "image":"Downloads\/request_april_by_nicnubill_d7dvydh.png",
+         "image":"request_april_by_nicnubill_d7dvydh.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -800,7 +800,7 @@
         {
          "columns":32,
          "firstgid":1220,
-         "image":"Downloads\/tileset.png",
+         "image":"tileset.png",
          "imageheight":512,
          "imagewidth":1024,
          "margin":0,
@@ -813,7 +813,7 @@
         {
          "columns":16,
          "firstgid":1732,
-         "image":"Downloads\/tilesets_modern___mack_by_milkian_dbz1aoz.png",
+         "image":"tilesets_modern___mack_by_milkian_dbz1aoz.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -854,7 +854,7 @@
         {
          "columns":8,
          "firstgid":1988,
-         "image":"Downloads\/bad32.png",
+         "image":"bad32.png",
          "imageheight":320,
          "imagewidth":256,
          "margin":0,
@@ -867,7 +867,7 @@
         {
          "columns":8,
          "firstgid":2068,
-         "image":"Downloads\/mv_bathroom_addon_by_schwarzenacht_dapf6hr.png",
+         "image":"mv_bathroom_addon_by_schwarzenacht_dapf6hr.png",
          "imageheight":480,
          "imagewidth":384,
          "margin":0,
@@ -880,7 +880,7 @@
         {
          "columns":16,
          "firstgid":2148,
-         "image":"Downloads\/tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6.png",
+         "image":"tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -893,7 +893,7 @@
         {
          "columns":7,
          "firstgid":2404,
-         "image":"Downloads\/deco_minideko.png",
+         "image":"deco_minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
@@ -906,7 +906,7 @@
         {
          "columns":10,
          "firstgid":2495,
-         "image":"Downloads\/__martins.png",
+         "image":"__martins.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
